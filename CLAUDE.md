@@ -1,7 +1,7 @@
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
+111111
 ## Project Overview
 
 Memos is a lightweight, self-hosted knowledge management and note-taking platform. The architecture pairs a Go backend with a React+Vite frontend, using gRPC for internal communication and providing REST API access via gRPC-Gateway.
